@@ -1,0 +1,20 @@
+:root {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #182923;
+  background: #f5f7f2;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: radial-gradient(circle at top right, #dcebdc 0, transparent 34rem), #f5f7f2;
+}
+
+.eyebrow {
+  color: #42785d;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
